@@ -1,0 +1,5 @@
+flask-restplus
+flask-sqlalchemy
+flask-swagger-ui
+Flask-RESTful
+Flask-Cors
